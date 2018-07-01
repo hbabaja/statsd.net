@@ -22,6 +22,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Threading.Tasks.Dataflow;
+using RestSharp.Authenticators;
 
 namespace statsd.net.Backends.Librato
 {
